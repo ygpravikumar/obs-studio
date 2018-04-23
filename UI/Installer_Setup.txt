@@ -6,5 +6,8 @@ run build.bat which will generate the sln file.
 open the sln and try to build.
 check the build and fix any buld errors.
 download and install  @icon Sushi {http://www.towofu.net/soft/e-aicon.php} for working with ico files.
-  
+install winscp
+install putty
+install git
+install tortoise git  
 
