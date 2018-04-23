@@ -1,0 +1,4 @@
+Remove OBS in Top Bar
+Remove Help menu bar as it can lead to OBS site
+Remove OBS icon everywhere.
+Remove OBS in help messages.

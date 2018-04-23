@@ -5825,9 +5825,9 @@ void OBSBasic::UpdateTitleBar()
 	const char *sceneCollection = config_get_string(App()->GlobalConfig(),
 			"Basic", "SceneCollection");
 
-	name << "OBS ";
+	name << "Custom ";
 	if (previewProgramMode)
-		name << "Studio ";
+		name << "BroadCastor ";
 
 	name << App()->GetVersionString();
 	if (App()->IsPortableMode())

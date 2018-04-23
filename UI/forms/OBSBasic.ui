@@ -322,7 +322,7 @@
    <addaction name="profileMenu"/>
    <addaction name="sceneCollectionMenu"/>
    <addaction name="menuTools"/>
-   <addaction name="menuBasic_MainMenu_Help"/>
+   <!--<addaction name="menuBasic_MainMenu_Help"/>-->
   </widget>
   <widget class="OBSBasicStatusBar" name="statusbar"/>
   <widget class="QDockWidget" name="scenesDock">

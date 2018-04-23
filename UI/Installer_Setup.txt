@@ -1,0 +1,10 @@
+Download OBS Studiocode from git with recursive option to download all dependencies.
+Download and install the windows sdk for he machine and add midl.exe folder to path.
+Download and install latest python and add it to path before python 2.xx version.
+Download qt latest and add it to path.
+run build.bat which will generate the sln file.
+open the sln and try to build.
+check the build and fix any buld errors.
+download and install  @icon Sushi {http://www.towofu.net/soft/e-aicon.php} for working with ico files.
+  
+
